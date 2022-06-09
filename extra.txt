@@ -1,0 +1,25 @@
+ my_object.service_id = serviceData._id,
+            // my_object.module_id = moduleData._id
+    //           my_object.service_name = serviceData.name
+    //           my_object.module_name = moduleData.name
+    //           my_object.amount = result[i].amount
+    //           my_object.commission = result[i].commission
+    //           my_object.serial_no = result[i].serial_no
+    //           my_object.status = result[i].status
+    //           my_object.createDate = result[i].createDate
+    //           my_object.expire = result[i].expire
+    //           my_object.saleDate = result[i].saleDate
+    //           my_object.admin_id = result[i].admin_id
+    //     data_array.push(my_object)
+            
+
+    //     if(i == lenn-1){
+    //        let len = data_array.length
+    //   res.status(200).json({
+    //       message:"Showing results",
+    //       count:len,
+    //       data_array,
+    //       error:false
+    //   })
+    
+    //     }
